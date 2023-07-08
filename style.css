@@ -9,10 +9,10 @@ nav{
     display: flex;
     background-color: #FFF8F3;
     padding: 10px 100px;
-    justify-content: center;
+    justify-content: space-between;
 }
 
-nav ul li{
+nav li{
     list-style: none;
     display: flex;
 }
